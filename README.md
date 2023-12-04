@@ -19,3 +19,10 @@
         hotel-a.azurewebsites.net
     </a>
 </div>
+
+<div>
+    <h3>PROJECT VIDEO LINK</h3>
+    <a href="https://youtu.be/UttUd18KWL8">
+        https://youtu.be/UttUd18KWL8
+    </a>
+</div>
