@@ -1,6 +1,6 @@
 <div>
     <h3>HOTEL WEBSITE</h3>
-    <p>This is a website that was created for an hotel/resort and it is hosted on netlify.</p>
+    <p>This is a website that was created for an hotel/resort and it is hosted on a Virtual Machine.</p>
 </div>
 
 <div>
@@ -14,5 +14,5 @@
 
 <div>
     <h3>HOST LINK</h3>
-    <p> It is hosted on netlify and the link is https://hotel-web.netlify.app/</p>
+    <p> It is  also hosted on azure web app service and here is the link hotel-a.azurewebsites.net</p>
 </div>
