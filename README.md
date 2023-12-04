@@ -14,5 +14,8 @@
 
 <div>
     <h3>HOST LINK</h3>
-    <p> It is  also hosted on azure web app service and here is the link hotel-a.azurewebsites.net</p>
+    <p> It is  also hosted on azure web app service and here is the link </p>
+    <a href="hotel-a.azurewebsites.net">
+        hotel-a.azurewebsites.net
+    </a>
 </div>
